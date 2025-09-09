@@ -1,3 +1,0 @@
-
-15 2 * * * /bin/bash /ABSOLUTE/PATH/auto_db_auto/cronjob.sh
-0 */3 * * * /bin/bash /ABSOLUTE/PATH/auto_db_auto/cronjob.sh
