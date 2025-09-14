@@ -1,0 +1,9 @@
+papermill==2.6.0
+ipykernel>=6.0.0
+pandas
+requests
+mysql-connector-python
+selenium
+beautifulsoup4
+lxml
+python-dotenv
